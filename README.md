@@ -31,16 +31,18 @@ I wrote this Basic Drawing App to demonstrate Kotlin's ability to interface with
 
 My purpose for writing this software was to gain proficiency in Kotlin's object-oriented principles, collection management, and event-driven programming.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/1ec5edec41904451ab383558dfc006c6https://www.loom.com/share/1ec5edec41904451ab383558dfc006c6)
 
 # Development Environment
 
 To develop this software, I used:
+
 - **IDE**: Android Studio / IntelliJ IDEA
 - **Build System**: Gradle (Kotlin DSL)
 - **JDK**: OpenJDK 17
 
 The software is written in **Kotlin 1.9** and uses the following libraries:
+
 - **Java Swing**: For the GUI components (JFrame, JPanel, JToolBar).
 - **Java AWT**: For graphics rendering, colors, and event handling.
 
